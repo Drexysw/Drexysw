@@ -12,7 +12,7 @@ Skills: C#/HTML/CSS
 - 🌱 I’m currently learning javascript and react 
 - 📫 How to reach me: knevdani@gmail.com
 
-###📑Certificates:
+### 📑Certificates:
 [https://softuni.bg/users/profile/certificates?username=JustDrexy]
 [https://softuni.bg/users/profile/certificates?username=JustDrexy]
 [https://softuni.bg/users/profile/certificates?username=JustDrexy]
