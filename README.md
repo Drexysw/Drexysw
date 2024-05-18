@@ -2,7 +2,7 @@
 
 ![Design and Development](https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2021/09/GitHub_logo.png?fit=1200%2C513&ssl=1)
 
-### Design and Development
+### About me
 My name is Danislav I live in Sliven Bulgaria.I am keen on computer science and exercising.I have completed the whole c# program in softuni university and i am planning to do javascript as well.
 I am also studing in High school of matemathics and science and my main subjects are programing and information technology as you can suppose.
 
@@ -33,6 +33,7 @@ https://softuni.bg/certificates/details/214247/64ddb6c9
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
+### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drexysw)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Drexysw&show_icons=true&count_private=true)  
