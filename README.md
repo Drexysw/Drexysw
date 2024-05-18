@@ -15,17 +15,17 @@ Skills: C#/HTML/CSS
 ### 📑Certificates:
 https://softuni.bg/certificates/details/151182/f6588149
 
-[https://softuni.bg/certificates/details/169410/1c45cfb2]
+https://softuni.bg/certificates/details/169410/1c45cfb2
 
-[https://softuni.bg/certificates/details/173628/8de760fd]
+https://softuni.bg/certificates/details/173628/8de760fd
 
-[https://softuni.bg/certificates/details/183078/319cff1c]
+https://softuni.bg/certificates/details/183078/319cff1c
 
-[https://softuni.bg/certificates/details/185731/478504a4]
+https://softuni.bg/certificates/details/185731/478504a4
 
-[https://softuni.bg/certificates/details/206824/ee27f4d1]
+https://softuni.bg/certificates/details/206824/ee27f4d1
 
-[https://softuni.bg/certificates/details/214247/64ddb6c9]
+https://softuni.bg/certificates/details/214247/64ddb6c9
 
 
 
