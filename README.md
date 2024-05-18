@@ -15,7 +15,7 @@ Skills: C#/HTML/CSS
 ### 📑Certificates:
 [https://softuni.bg/users/profile/certificates?username=JustDrexy]
 [https://softuni.bg/users/profile/certificates?username=JustDrexy]
-[https://softuni.bg/users/profile/certificates?username=JustDrexy]
+[https://softuni.bg/certificates/details/173628/8de760fd]
 [https://softuni.bg/users/profile/certificates?username=JustDrexy]
 [https://softuni.bg/users/profile/certificates?username=JustDrexy]
 [https://softuni.bg/users/profile/certificates?username=JustDrexy]
