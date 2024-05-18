@@ -13,7 +13,7 @@ Skills: C#/HTML/CSS
 - 📫 How to reach me: knevdani@gmail.com
 
 ### 📑Certificates:
-## [https://softuni.bg/certificates/details/151182/f6588149]
+[https://softuni.bg/certificates/details/151182/f6588149]
 
 [https://softuni.bg/certificates/details/169410/1c45cfb2]
 
