@@ -1,6 +1,6 @@
 ### Hi there 👋, Danislav Kanev
 
-![Design and Development](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
+![Design and Development]([https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg](https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2021/09/GitHub_logo.png?fit=1200%2C513&ssl=1))
 
 ### Design and Development
 My name is Danislav I live in Sliven Bulgaria.I am keen on computer science and exercising.I have completed the whole c# program in softuni university and i am planning to do javascript as well.
