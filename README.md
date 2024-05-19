@@ -1,38 +1,47 @@
-### Hi there 👋, Danislav Kanev
+# Welcome to My GitHub Profile 👋
 
-### About me
-My name is Danislav I live in Sliven Bulgaria.I am keen on computer science and exercising.I have completed the whole c# program in softuni university and i am planning to do javascript as well.
-I am also studing in High school of matemathics and science and my main subjects are programing and information technology as you can suppose.
+## 👨‍💻 About Me
+Hello there! I'm **Danislav Kanev**, a Web Developer passionate about data science programming. I'm on the lookout for exciting opportunities in the IT field. 
 
-Skills: C#/HTML/CSS
+- 📧 Email: knevdani@gmail.com
+- 📱 Phone: +359876909616
+- 🌐 LinkedIn: [linkedin.com/in/lora-mitova-833a47261](https://www.linkedin.com/in/lora-mitova-833a47261)
+- 🌐 GitHub: [github.com/Drexysw](https://github.com/Drexysw)
+- 📘 Instagram: [instagram.com/_denkata.sw_](https://www.instagram.com/_denkata.sw_/)
+  
+## 🚀 Skills
+- **Languages:** c#, HTML5, CSS3
+- **Frameworks:** EF and soon React
+- **Database:** MSSQL
+- **Soft Skills:** Motivation, Teamwork, Analysis, Innovation
 
-- 🔭 I’m currently working on Developing my skills in working with web apies 
-- 🌱 I’m currently learning javascript and react 
-- 📫 How to reach me: knevdani@gmail.com
+## 🎓 Education
+- **Software University** 
+  - Courses include C# Advanced, C# Web, MSSQL,C# OOP end ect.
 
-### 📑Certificates:
-https://softuni.bg/certificates/details/151182/f6588149
+- **Software and Hardware** at HIgh School of Matemathics and Science in Sliven
+  - Specialization in programming.
 
-https://softuni.bg/certificates/details/169410/1c45cfb2
+## 💼 Projects
+1. **BookStore** - C# Web Project** 
+   - A online book store project for the final softuni exam
 
-https://softuni.bg/certificates/details/173628/8de760fd
+## 🌐 Interests
+- ⚖️ Law
+- 🍳 Cooking
+- 💪 Fitness
+- 📚 Books
 
-https://softuni.bg/certificates/details/183078/319cff1c
-
-https://softuni.bg/certificates/details/185731/478504a4
-
-https://softuni.bg/certificates/details/206824/ee27f4d1
-
-https://softuni.bg/certificates/details/214247/64ddb6c9
-
+## 📚 Top Skills
+- 🐍 **C#**
+- 🛢  **MSSQL**
+- 🌐 **HTML5** 
+- 🎨 **CSS3** 
+- 🐙 **GitHub** 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Drexysw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_denkata.sw_/)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drexysw)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Drexysw&show_icons=true&count_private=true)  
+Feel free to reach out if you have any exciting projects or opportunities! Let's connect and create something amazing together.
 
