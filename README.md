@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile 👋
 
 ## 👨‍💻 About Me
-Hello there! I'm **Danislav Kanev**, a Web Developer passionate about data science programming. I'm on the lookout for exciting opportunities in the IT field. 
+Hello there! I'm **Danislav Kanev**, a Web Developer passionate about programming and cybersecurity. I'm on the lookout for exciting opportunities in the IT field. 
 
 - 📧 Email: knevdani@gmail.com
 - 📱 Phone: +359876909616
