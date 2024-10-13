@@ -27,8 +27,7 @@ Hello there! I'm **Danislav Kanev**, a Web Developer passionate about programmin
    - A online book store project for the final softuni exam
 
 ## 🌐 Interests
-- ⚖️ Law
-- 🍳 Cooking
+- Psychology
 - 💪 Fitness
 - 📚 Books
 
