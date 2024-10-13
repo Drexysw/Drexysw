@@ -10,7 +10,7 @@ Hello there! I'm **Danislav Kanev**, a Web Developer passionate about programmin
 - 📘 Instagram: [instagram.com/_denkata.sw_](https://www.instagram.com/_denkata.sw_/)
   
 ## 🚀 Skills
-- **Languages:** c#, HTML5, CSS3
+- **Languages:** C#, JavaScript ,HTML5, CSS3
 - **Frameworks:** EF and soon React
 - **Database:** MSSQL
 - **Soft Skills:** Motivation, Teamwork, Analysis, Innovation
