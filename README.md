@@ -25,6 +25,8 @@ Hello there! I'm **Danislav Kanev**, a Web Developer passionate about programmin
 ## 💼 Projects
 1. **BookStore** - C# Web Project** 
    - A online book store project for the final softuni exam
+2. **ResumeProject** - Javascript,HTML,CSS Porject**
+   - A web based resume with interactive design and user-friendly experiance
 
 ## 🌐 Interests
 - Psychology
