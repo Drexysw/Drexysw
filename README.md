@@ -5,7 +5,7 @@ Hello there! I'm **Danislav Kanev**, a Web Developer passionate about programmin
 
 - 📧 Email: knevdani@gmail.com
 - 📱 Phone: +359876909616
-- 🌐 LinkedIn: [linkedin.com/in/lora-mitova-833a47261](https://www.linkedin.com/in/lora-mitova-833a47261)
+- 🌐 LinkedIn: 
 - 🌐 GitHub: [github.com/Drexysw](https://github.com/Drexysw)
 - 📘 Instagram: [instagram.com/_denkata.sw_](https://www.instagram.com/_denkata.sw_/)
   
