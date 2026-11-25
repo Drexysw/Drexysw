@@ -1,48 +1,35 @@
-# Welcome to My GitHub Profile 👋
+Hi, I'm Danislav 👋
+Software Engineer — backend, API integrations & ETL / data pipelines
 
-## 👨‍💻 About Me
-Hello there! I'm **Danislav Kanev**, a Web Developer passionate about programming and cybersecurity. I'm on the lookout for exciting opportunities in the IT field. 
+I build the plumbing that moves data between systems: external API integrations, ETL/ELT pipelines, and the background jobs that keep data warehouses in sync. I recently did this in production as a Software Engineering Intern at Daasity (via Engineer Access), working in a Ruby on Rails codebase that feeds a Snowflake warehouse.
 
-- 📧 Email: knevdani@gmail.com
-- 📱 Phone: +359876909616
-- 🌐 LinkedIn: 
-- 🌐 GitHub: [github.com/Drexysw](https://github.com/Drexysw)
-- 📘 Instagram: [instagram.com/_denkata.sw_](https://www.instagram.com/_denkata.sw_/)
-  
-## 🚀 Skills
-- **Languages:** C#, JavaScript ,HTML5, CSS3
-- **Frameworks:** EF and soon React
-- **Database:** MSSQL
-- **Soft Skills:** Motivation, Teamwork, Analysis, Innovation
-
-## 🎓 Education
-- **Software University** 
-  - Courses include C# Advanced, C# Web, MSSQL,C# OOP end ect.
-
-- **Software and Hardware** at HIgh School of Matemathics and Science in Sliven
-  - Specialization in programming.
-
-## 💼 Projects
-1. **BookStore** - C# Web Project** 
-   - A online book store project for the final softuni exam
-2. **ResumeProject** - Javascript,HTML,CSS Porject**
-   - A web based resume with interactive design and user-friendly experiance
-
-## 🌐 Interests
-- Psychology
-- 💪 Fitness
-- 📚 Books
-
-## 📚 Top Skills
-- 🐍 **C#**
-- 🛢  **MSSQL**
-- 🌐 **HTML5** 
-- 🎨 **CSS3** 
-- 🐙 **GitHub** 
+🎓 Computer Science student at Sofia University
+🔭 Currently building a JavaScript ETL / data-sync side project
+🧰 Comfortable owning an integration end to end: third-party API → transform → load → schedule
+💼 Open to junior / entry-level roles in software engineering, integrations, or data engineering
 
 
+🛠️ Tech Stack
 
+Languages: Ruby · JavaScript · C# · SQL · C++
+Backend & data: Ruby on Rails · ASP.NET Core · Entity Framework · Snowflake · PostgreSQL · MSSQL · AWS S3
+Workflow: Docker · Git · Postman · REST APIs · ETL / ELT
 
+💼 Experience
 
-Feel free to reach out if you have any exciting projects or opportunities! Let's connect and create something amazing together.
+Software Engineering Intern — Daasity (via Engineer Access) · Jul – Dec 2026
 
+Built a third-party Instacart Ads integration end to end against their REST API — auth, resource mapping, and the data pulled into the platform.
+Developed ETL / ELT pipelines moving data from external sources into a Snowflake warehouse, including a job that replicates business metrics into a separate corporate instance.
+Added resilient error handling for external-API failure cases and stabilized the local Docker development environment (service port conflicts, SOPS / AWS KMS secrets).
+
+🚀 Projects
+GuessTheNextWord — local multiplayer word-chain game built with React Native and an ASP.NET Core backend, MSSQL via Entity Framework Core, with speech-to-text input.
+BookStore — web-based bookstore management system in C# / ASP.NET Core and Entity Framework, with role-based auth, CRUD, and xUnit tests in a layered architecture.
+Portfolio / Resume site — responsive multi-page personal site in HTML, CSS, and JavaScript, deployed on Vercel.
+ETL data-sync project (in progress) — a JavaScript pipeline that pulls from a public API, transforms the data, and loads it on a schedule.
+
+📫 Let's connect
+💼 LinkedIn: danislav-kanev
+📧 Email: knevdani@gmail.com
+🌐 Portfolio: danislav-resume-project.vercel.app
