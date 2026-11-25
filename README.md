@@ -20,13 +20,18 @@ Workflow: Docker · Git · Postman · REST APIs · ETL / ELT
 Software Engineering Intern — Daasity (via Engineer Access) · Jul – Dec 2026
 
 Built a third-party Instacart Ads integration end to end against their REST API — auth, resource mapping, and the data pulled into the platform.
+
 Developed ETL / ELT pipelines moving data from external sources into a Snowflake warehouse, including a job that replicates business metrics into a separate corporate instance.
+
 Added resilient error handling for external-API failure cases and stabilized the local Docker development environment (service port conflicts, SOPS / AWS KMS secrets).
 
 🚀 Projects
 GuessTheNextWord — local multiplayer word-chain game built with React Native and an ASP.NET Core backend, MSSQL via Entity Framework Core, with speech-to-text input.
+
 BookStore — web-based bookstore management system in C# / ASP.NET Core and Entity Framework, with role-based auth, CRUD, and xUnit tests in a layered architecture.
+
 Portfolio / Resume site — responsive multi-page personal site in HTML, CSS, and JavaScript, deployed on Vercel.
+
 ETL data-sync project (in progress) — a JavaScript pipeline that pulls from a public API, transforms the data, and loads it on a schedule.
 
 📫 Let's connect
